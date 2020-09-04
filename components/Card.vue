@@ -23,6 +23,8 @@ export default {
 
 .card-content {
   font-family: monospace;
+  white-space: pre-line;
+  padding-bottom: 2em;
 }
 
 </style>
