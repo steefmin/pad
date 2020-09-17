@@ -9,7 +9,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.14.0",
+    "nuxt": "^2.14.5",
     "nuxt-buefy": "^0.3.31"
   },
   "devDependencies": {}
